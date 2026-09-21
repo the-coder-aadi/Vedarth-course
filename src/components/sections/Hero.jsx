@@ -24,22 +24,22 @@ export default function Hero() {
               <Badge label="Format" value="Live online" tone="neutral" />
             </div>
 
-            <h1
-              className="mt-6 text-[2.15rem] leading-[1.08] sm:text-[3rem] lg:text-[3.6rem] xl:text-[4rem] opacity-0"
-              style={{ animation: 'heroIn .8s .15s cubic-bezier(.2,.8,.2,1) forwards' }}
-            >
-              Learn. Build. Prove.
-              <br />
-              <span className="text-gradient">Earn the opportunity.</span>
-            </h1>
+   <h1
+  className="mt-6 text-[2.15rem] leading-[1.08] sm:text-[3rem] lg:text-[3.6rem] xl:text-[4rem] opacity-0"
+  style={{ animation: 'heroIn .8s .15s cubic-bezier(.2,.8,.2,1) forwards' }}
+>
+  Vedarth Academy
+  <br />
+  <span className="text-gradient">MERN Stack + Generative AI</span>
+</h1>
 
             <p
               className="mt-5 max-w-xl text-[1.02rem] leading-relaxed text-body sm:text-[1.15rem] opacity-0"
               style={{ animation: 'heroIn .8s .25s cubic-bezier(.2,.8,.2,1) forwards' }}
             >
-              Master the MERN stack and Generative AI through live, practical, project-based classes.
-              Build real applications, strengthen your development skills, and compete for a paid
-              internship opportunity inside your {academyConfig.batchSize}-student batch.
+             Learn MERN Stack and Generative AI through live, practical, project-based classes at
+Vedarth Academy. Build real-world full-stack applications, strengthen your development
+skills, and compete for a merit-based paid internship opportunity inside your {academyConfig.batchSize}-student batch.
             </p>
 
             <div

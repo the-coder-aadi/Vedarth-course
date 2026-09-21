@@ -30,7 +30,10 @@ export default function HeroVisual() {
   }, [])
 
   return (
-    <div className="relative mx-auto w-full max-w-[34rem] lg:max-w-none">
+    <div
+  className="relative mx-auto w-full max-w-[34rem] lg:max-w-none"
+  aria-label="Vedarth Academy live MERN Stack and Generative AI development preview"
+>
       <div className="orb -right-10 -top-12 h-56 w-56 bg-brand/25 animate-drift" aria-hidden="true" />
       <div className="orb -bottom-16 -left-10 h-56 w-56 bg-violet/22 animate-drift" aria-hidden="true" style={{ animationDelay: '-6s' }} />
 

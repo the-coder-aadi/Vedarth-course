@@ -9,19 +9,19 @@ export default function About() {
     <Section id="about" tone="elevated">
       <div className="grid gap-12 lg:grid-cols-[1fr_0.85fr] lg:items-center lg:gap-16">
         <div>
-          <SectionHeading
-            kicker={`About ${academyConfig.name}`}
-            title="Learning should lead to building."
-            body="Vedarth Academy is built around a simple idea: learning technology should go beyond watching lessons and collecting certificates."
-          />
-          <p className="reveal mt-5 max-w-xl text-[0.98rem] leading-relaxed text-body">
-            We focus on live classes, practical development, real-world projects, problem-solving and hands-on work.
-            The goal is straightforward — help students build skills they can actually demonstrate, in a repository,
-            in an interview, and on a deployed URL.
-          </p>
+        <SectionHeading
+  kicker={`About ${academyConfig.name}`}
+  title="Learn MERN Stack & Generative AI by Building Real Projects."
+  body="Vedarth Academy is a live, project-based learning academy focused on MERN Stack development and Generative AI. Learn by building real applications, solving practical problems, and developing skills you can demonstrate in your portfolio and interviews."
+/>
+      <p className="reveal mt-5 max-w-xl text-[0.98rem] leading-relaxed text-body">
+  Our live online classes combine MERN Stack development, Generative AI, practical coding,
+  real-world projects, problem-solving, GitHub workflows, and deployment. Students learn by
+  building applications they can demonstrate through their portfolio, interviews, and deployed projects.
+</p>
 
           <div className="reveal mt-8 rounded-2xl border border-line bg-surface/60 p-6">
-            <h3 className="text-[1.02rem]">What we promise</h3>
+           <h3 className="text-[1.02rem]">What You Get at Vedarth Academy</h3>
             <ul className="mt-4 grid gap-2.5 sm:grid-cols-2">
               {promises.map((p) => (
                 <li key={p} className="flex items-start gap-2.5 text-[0.88rem] text-body">
@@ -32,9 +32,10 @@ export default function About() {
                 </li>
               ))}
             </ul>
-            <p className="mt-5 border-t border-line pt-4 text-[0.84rem] text-muted">
-              No fake numbers, no borrowed testimonials. As real students complete the program, their work will speak here.
-            </p>
+        <p className="mt-5 border-t border-line pt-4 text-[0.84rem] text-muted">
+  We focus on real learning, practical work, and outcomes that students can demonstrate through their projects and skills.
+</p>
+
           </div>
         </div>
 
