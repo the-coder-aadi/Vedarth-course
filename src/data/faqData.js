@@ -1,0 +1,17 @@
+export const faqData = [
+  { q: 'What is the course fee?', a: 'The program fee is ₹3,999.' },
+  { q: 'When does the next batch start?', a: 'The next batch starts on 1 October 2026.' },
+  { q: 'How many students are in one batch?', a: 'Only 5 students.' },
+  { q: 'Are the classes live?', a: 'Yes. Classes are live and interactive, so you can ask questions during the session.' },
+  { q: 'Is there a free demo?', a: 'Yes. One free demo class is available before you decide.' },
+  { q: 'Is the course online?', a: 'Yes, the program runs as live online classes.' },
+  { q: 'Is installment support available?', a: 'Yes, installment payment support is available for students who need flexibility. Ask us for details.' },
+  { q: 'Will every student get the internship?', a: 'No. Every batch has one paid internship opportunity. The top-performing eligible student is selected based on performance.' },
+  { q: 'How is the internship student selected?', a: 'Based on coding ability, project quality, problem solving, assignment performance, consistency and interview performance.' },
+  { q: 'How long is the internship?', a: 'The internship runs for 2 months.' },
+  { q: 'What is the stipend?', a: '₹3,000 per month.' },
+  { q: 'What is the total stipend?', a: '₹6,000 across the two months.' },
+  { q: 'Will I receive a certificate?', a: 'Students who successfully complete the program receive a course completion certificate.' },
+  { q: 'Is this suitable for beginners?', a: 'Yes. The program is designed to support beginners while building toward practical full-stack and AI-powered development.' },
+  { q: 'What will I build?', a: 'Students work on practical full-stack and AI-integrated projects through the program.' },
+]
