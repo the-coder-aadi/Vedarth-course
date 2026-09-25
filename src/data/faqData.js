@@ -1,6 +1,6 @@
 export const faqData = [
   { q: 'What is the course fee?', a: 'The program fee is ₹3,999.' },
-  { q: 'When does the next batch start?', a: 'The next batch starts on 1 October 2026.' },
+  { q: 'When does the next batch start?', a: 'The next batch starts on 15 October 2026.' },
   { q: 'How many students are in one batch?', a: 'Only 5 students.' },
   { q: 'Are the classes live?', a: 'Yes. Classes are live and interactive, so you can ask questions during the session.' },
   { q: 'Is there a free demo?', a: 'Yes. One free demo class is available before you decide.' },
