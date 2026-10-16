@@ -6,8 +6,8 @@ export const academyConfig = {
   name: 'Vedarth Academy',
   tagline: 'Learn. Build. Prove. Earn the Opportunity.',
   course: 'MERN Stack + Generative AI',
-  batchStart: '15 October 2026',
-  batchStartShort: '15 Oct 2026',
+  batchStart: '1 November 2026',
+  batchStartShort: '1 November 2026',
   batchSize: 5,
   fee: 3999,
   feeLabel: '₹3,999',
@@ -37,7 +37,7 @@ export const contactConfig = {
   email: 'codearscommunity@gmail.com',
   phone: '6263268853',
   instagram: 'https://instagram.com/kourav_adi345',
- youtube: 'https://youtube.com/@codearscommunity',
+ youtube: 'https://www.youtube.com/@Coder_Krv',
 }
 
 export const seoConfig = {
